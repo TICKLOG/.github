@@ -1,7 +1,6 @@
 # TICKLOG
 
 Minecraft doesn't track how long you play. We built a small Fabric mod that does, and a website that shows it.
-
 Install the mod, play like normal, open ticklog.net/yourname. That's it.
 
 ## What you get

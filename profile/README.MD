@@ -1,13 +1,29 @@
-Minecraft keeps your playtime on the PC you played on. Reinstall the game, switch machines or wipe a launcher profile and it's gone. Ticklog ties your hours to your Minecraft account instead, so they survive everything and build up into a permanent record on ticklog.net.
+# TICKLOG
 
-What it tracks
+Minecraft doesn't track how long you play. We built a small Fabric mod that does, and a website that shows it.
 
-Launcher, singleplayer and every multiplayer server, split up so you see where your time goes Minute by minute, synced live while you play Bound to your Minecraft account, not to your PC, launcher or install
+Install the mod, play like normal, open ticklog.net/yourname. That's it.
 
-On ticklog.net
+## What you get
 
-Your profile with a 3D skin, a playtime heatmap for the whole year and your top servers Your rank among all tracked players, plus monthly views and likes Badges for staff, top 10 and short names Log in with Discord to link your accounts, hide servers you don't want shown, or delete everything
+- Playtime split into servers, singleplayer and launcher time
+- A heatmap of the last year, GitHub style
+- Your top servers, with the option to hide the ones you don't want public
+- A daily streak and a few badges
+- A leaderboard for today, this month and all time
+- Discord login so the profile is yours, one Minecraft account per Discord
 
-Privacy
+Nothing is read from log files and nothing is guessed. The mod sends a heartbeat while the game is running, the server adds up the seconds. No chat, no coordinates, no inventory, just time.
 
-The mod sends your Minecraft UUID, your name, your playtime and the address of the server you're on. Nothing else: no chat, no coordinates, no inventory. You can delete all of it on the website at any time, playtime included.
+## Links
+
+- Website: https://ticklog.net
+- Mod: https://github.com/TICKLOG/ticklog
+- Modrinth: https://modrinth.com/mod/ticklog
+- Discord: https://discord.com/invite/JXaJVXewtX
+
+## Status
+
+Fabric, Minecraft 26.3+. Free and open source. Made by one person in Austria, so expect small updates rather than big ones.
+
+Not an official Minecraft service. Not approved by or associated with Mojang or Microsoft.

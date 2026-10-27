@@ -22,8 +22,4 @@ Nothing is read from log files and nothing is guessed. The mod sends a heartbeat
 - Modrinth: https://modrinth.com/mod/ticklog
 - Discord: https://discord.com/invite/JXaJVXewtX
 
-## Status
-
-Fabric, Minecraft 26.3+. Free and open source. Made by one person in Austria, so expect small updates rather than big ones.
-
 Not an official Minecraft service. Not approved by or associated with Mojang or Microsoft.
